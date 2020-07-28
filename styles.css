@@ -1,0 +1,23 @@
+#upper {
+  background-color: #00203FFF;
+  color: black;
+  text-align: center;
+  padding: 50px;
+  margin-top: auto;
+}
+#designleft {
+  line-height: 40px;
+  background-color: #5B84B1FF;
+  height: 700px;
+  width: 150px;
+  float: left;
+  padding: 5px;
+}
+
+#designcenter{
+  background-color: orange;
+  float: center;
+  padding: 5px;
+  height: 700px;
+
+}
